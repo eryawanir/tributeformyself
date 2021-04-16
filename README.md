@@ -2,4 +2,4 @@
 repo untuk mengerjakan projek freecodecamp  
 diantaranya:  
 responsive web design certification  
-javascript algorithm  
+belajar front end library 
