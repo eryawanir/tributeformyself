@@ -64,8 +64,12 @@ section#nasehat p {
   line-height: 3;
 }
 section#nasehat figure#img-nasehat img {
-  width: 100%;
-  margin: auto;
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
 }
 section#nasehat figure#img-nasehat figcaption {
   font-size: 2.8vw;
