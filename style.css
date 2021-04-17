@@ -73,7 +73,14 @@ section#nasehat figure#img-nasehat {
 }
 
 section#nasehat figure#img-nasehat img {
-  max-width: 100%;
+
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+
 }
 
 section#nasehat figure#img-nasehat figcaption {
